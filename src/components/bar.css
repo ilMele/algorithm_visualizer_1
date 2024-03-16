@@ -1,0 +1,14 @@
+.value-bar {
+    margin: 0 5px;
+    margin-top: 0;
+    width: 30px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
+
+    transition-property: height;
+    font-size: 14px;
+    background-color: yellowgreen;
+}
